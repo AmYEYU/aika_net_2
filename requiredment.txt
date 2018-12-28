@@ -1,0 +1,7 @@
+
+
+flask
+flask-script
+flask_blueprint
+flask_wtf
+pymysql
